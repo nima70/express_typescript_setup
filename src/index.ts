@@ -1,3 +1,4 @@
+import "module-alias/register";
 import express, { Express, Request, Response } from "express";
 
 export interface testRequest {
